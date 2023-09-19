@@ -1,2 +1,2 @@
-def hello_world():
+def my_first_program():
   pass
