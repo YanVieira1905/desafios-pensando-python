@@ -3,7 +3,6 @@ def circle_area(radius):
   # Auxílio: Utilize 3.14 como valor do Pi ou import o módulo math
   pass
 
-
 def square_area(side):
   # Retorne a área de um quadrado dado a medida de seu lado
   pass
